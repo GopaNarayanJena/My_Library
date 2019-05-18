@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MY_LIBRARY
+</name>
+</assembly>
+<members>
+<member name="T:MY_LIBRARY.libraryDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSet.BOOK_INFODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSet.BOOK_ISSUEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSet.PUBLISHERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSet.ST_SUBJECTSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSet.USER_PROFDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSet.BOOK_INFORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSet.BOOK_ISSUERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSet.PUBLISHERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSet.ST_SUBJECTSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSet.USER_PROFRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSet.BOOK_INFORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSet.BOOK_ISSUERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSet.PUBLISHERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSet.ST_SUBJECTSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSet.USER_PROFRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSetTableAdapters.BOOK_INFOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSetTableAdapters.BOOK_ISSUETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSetTableAdapters.PUBLISHERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSetTableAdapters.ST_SUBJECTSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSetTableAdapters.USER_PROFTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:MY_LIBRARY.libraryDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(MY_LIBRARY.libraryDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:MY_LIBRARY.libraryDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(MY_LIBRARY.libraryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:MY_LIBRARY.libraryDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(MY_LIBRARY.libraryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:MY_LIBRARY.libraryDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:MY_LIBRARY.libraryDataSetTableAdapters.TableAdapterManager.UpdateAll(MY_LIBRARY.libraryDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:MY_LIBRARY.libraryDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:MY_LIBRARY.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MY_LIBRARY.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MY_LIBRARY.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

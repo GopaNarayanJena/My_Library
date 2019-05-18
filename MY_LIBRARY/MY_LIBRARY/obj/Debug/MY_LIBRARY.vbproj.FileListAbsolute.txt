@@ -1,0 +1,23 @@
+C:\Users\JOYDEEP BISWAS\Desktop\pk\MY_LIBRARY\MY_LIBRARY\bin\Debug\MY_LIBRARY.exe.config
+H:\pk\MY_LIBRARY\MY_LIBRARY\bin\Debug\MY_LIBRARY.exe.config
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\bin\Debug\MY_LIBRARY.exe.config
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\obj\Debug\MY_LIBRARY.vbprojResolveAssemblyReference.cache
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\obj\Debug\MY_LIBRARY.U_REG.resources
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\obj\Debug\MY_LIBRARY.ADMIN_TYPE.resources
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\obj\Debug\MY_LIBRARY.USER_CONFIRM.resources
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\obj\Debug\MY_LIBRARY.PUBLISHER_ENTRY.resources
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\obj\Debug\MY_LIBRARY.BOOK_ENTRY.resources
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\obj\Debug\MY_LIBRARY.BOOK_ISSUE.resources
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\obj\Debug\MY_LIBRARY.BOOK_SEARCH.resources
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\obj\Debug\MY_LIBRARY.REPORT.resources
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\obj\Debug\MY_LIBRARY.Resources.resources
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\obj\Debug\MY_LIBRARY.vbproj.GenerateResource.Cache
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\obj\Debug\MY_LIBRARY.xml
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\bin\Debug\MY_LIBRARY.exe
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\bin\Debug\MY_LIBRARY.pdb
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\bin\Debug\MY_LIBRARY.xml
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\obj\Debug\MY_LIBRARY.FORM1.resources
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\obj\Debug\MY_LIBRARY.exe
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\obj\Debug\MY_LIBRARY.pdb
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\bin\Debug\library.accdb
+F:\program\pk\MY_LIBRARY\MY_LIBRARY\obj\Debug\MY_LIBRARY.user_profile.resources
